@@ -15,4 +15,4 @@ where
 * t is time
 * \sigma, \rho, \beta are parameters, typically set to \sigma = 10, \rho = 28, \beta = \frac{8}{3}
 
-![Lorenz Attractor](lorenz_attactor.gif)
+![Lorenz Attractor](lorenz_attractor.gif)
